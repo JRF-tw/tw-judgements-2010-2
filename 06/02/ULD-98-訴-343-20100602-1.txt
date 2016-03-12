@@ -1,0 +1,868 @@
+【裁判字號】    98,訴,343
+【裁判日期】    990602
+【裁判案由】    損害賠償
+【裁判全文】
+臺灣雲林地方法院民事判決               98年度訴字第343號
+原      告  臺灣產物保險股份有限公司
+法定代理人  丙○○
+訴訟代理人  許再定律師
+被      告  乙○○○○○ ○○○○ ○○○○○○○○○○（Canada） Ltd.
+法定代理人  甲○○○○○ ○○.
+訴訟代理人  劉貞鳳律師
+上列當事人間請求損害賠償事件，本院於民國99年5月26日言詞
+辯論終結，判決如下：
+    主  文
+原告之訴及假執行之聲請均駁回
+訴訟費用由原告負擔。
+    事實及理由
+壹、程序方面：
+一、按非法人團體，設有代表人或管理人者，有當事人能力，民
+    事訴訟法第40條第3 項定有明文，又未經認許成立之外國法
+    人，雖不能認其為法人，然仍不失為非法人團體。苟該非法
+    人團體設有代表人或管理人者，依民事訴訟法第40條第3項
+    規定，自有當事人能力，至其在我國是否設有事務所或營業
+    所則非所問，最高法院亦著有民國（如未載明為「西元」者
+    ，下同）50年臺上字第1898號判例足資參照。查被告乙○○○○○
+     ○○○○ ○○○○○○○○○○(Canada) Ltd. （下稱被告Expedo公司）
+    係依加拿大相關公司法令所成立，且未經我國認許其成立之
+    外國法人，為兩造所不爭執。是以Expedo公司雖係未經我國
+    認許成立之外國法人，惟其係設有代表人或管理人之非法人
+    團體，自有本件訴訟之當事人能力。
+二、定性—本件為涉外民事之海商暨保險事件：
+    被告Expedo公司為加拿大法人已如前述。依原告主張訴外人
+    臺塑石化股份有限公司（下稱臺塑石化公司）自沙烏地阿拉
+    伯購買石油腦（NAPHTHA ，下稱系爭貨物）乙批，並由船名
+    NEW CHALLENGE 輪船（下稱系爭船舶）之船長CHU,JIN-SHEN
+    G 簽發載貨證券B/L （號碼為E2079 號，下稱系爭載貨證券
+    ）。詎料系爭貨物運抵臺灣麥寮港後，經檢定結果，發現系
+    爭貨物數量短少而受有損害。原告為系爭貨物之保險人，已
+    依約賠付臺塑石化公司保險金，並受讓及代位行使臺塑石化
+    公司對被告Expedo公司之損害賠償請求權等情，是原告係基
+    於保險代位及載貨證券等法律關係，訴請被告Expedo公司賠
+    償損害等情以觀，系爭貨物之出賣人及被告Expedo公司均為
+    外國法人，而系爭船舶之船舶登記國籍為馬歇爾群島（
+    Marshall Islands，此有被告Expedo公司所提出，而兩造對
+    形式均不爭執之船籍資料附卷足憑，系爭貨物係在馬歇爾群
+    島裝船後，經海上航行，並運抵臺灣，故本件為含有外國之
+    人、地、事、物、船舶等涉外成分（Foreign Elements）之
+    海上貨物保險契約、載貨證券等法律關係之涉訟爭議，應屬
+    涉外民事之海商暨保險事件，至為明灼。
+三、國際民事裁判管轄：
+  (一)按國際民事裁判管轄乃訴訟提起之程序要件，國際民事裁判
+    管轄之有無，實為法院於言詞辯論期日前，應依職權調查之
+    事項，是本件首應究明我國對於本件涉外保險及海商事件有
+    無國際民事裁判管轄權。
+  (二)然而，除涉外民事法律適用法第3 條與第4 條規定間接指示
+    我國法院對各該條所調整事項具有國際民事裁判管轄外，並
+    無其他有關國際民事裁判管轄之專條規定；惟依海商法第78
+    條第1 項規定：「裝貨港或卸貨港為中華民國港口者之載貨
+    證券所生之爭議，得由我國裝貨港或卸貨港或其他依法有管
+    轄權之法院管轄。」細繹其旨，實係海商法針對載貨證券法
+    律關係涉訟而為我國法院有國際民事裁判管轄權之特別規定
+    ，除規範內國關於載貨證券法律關係所生爭議事件之特別審
+    判籍外，當然涵括規範涉外海商事件中關於載貨證券法律關
+    係涉訟之國際民事裁判管轄在內。是揆諸上揭規定，我國法
+    院就本件關於涉外載貨證券法律關係部分，自有國際民事裁
+    判管轄權至明。
+  (三)至本件尚有涉外海上貨物保險契約之法律關係，而目前國際
+    間就國際民事裁判管轄方面尚未建立明確、普遍性之一般國
+    際公約規範，除少數區域性之國際公約（如：西元1968年歐
+    洲共同體關於民商事事件管轄權暨判決執行之布魯塞爾公約
+    EC Convention on Jurisdiction and the Enforcement of
+    Judgments in Civil and Commercial Matters, Brussels,
+    1968及西元1988年歐洲共同體關於民商事事件管轄權暨判決
+    執行之盧加諾公約EC Convention on Jurisdiction and
+    the Enforcement of Judgments in Civil and Commercial
+    Matters, Lugano, 1988 ）及個別專業法律領域國際公約（
+    如：西元1978年聯合國海上貨物運送公約即漢堡規則United
+    Nations Convention on the Carriage of Goods by Sea,
+    1978--The Hamburg Rules ，下稱漢堡規則）外，亦無成熟
+    之習慣國際法存在。然學者有認為應採取「逆推知說」，即
+    由關於規範具體管轄之內國民事訴訟法規定，逆向推知抽象
+    管轄之國際民事裁判管轄之原則；質言之，某涉外事件之內
+    國具體管轄權在某國者，則視為該涉外事件係以該國已有抽
+    象管轄之國際民事裁判管轄權。又學者或主張：無論內國民
+    事訴訟或國際民事訴訟對於保障當事人間平等待遇、裁判之
+    適正、公平、迅速、經濟及效率等功能，應無不同（即二重
+    機能理論），乃以法理補充國際民事裁判管轄成文規定之欠
+    缺，而類推適用內國民事訴訟法關於規範具體管轄之規定。
+    學者尚有謂：應採取「利益衡量說」，即國際民事裁判管轄
+    與內國管轄權性質上仍有差異，故應就具體個案性質、內容
+    所涉及之國際民事訴訟利益（含當事人利益及公共利益）與
+    特定國家（法域，Territorial Legal Unit）牽連性等綜合
+    衡量，俾以處理國際民事裁判管轄確定之問題。亦有學者認
+    為：基於當事人之公平、裁判之正當及公正、程序之迅速及
+    經濟等理念，並考量涉外事件之特殊性，就國際民事裁判管
+    轄應為地理性之分配。職是之故，為追求裁判之適正、妥適
+    、正當，程序之迅速、經濟，並賦予當事人實質上公平使用
+    審判制度之機會等現代民事訴訟制度理念，作為我國法院就
+    個案審理中判斷有無國際民事裁判管轄，始中其肯綮。準此
+    以解，我國法院倘依前揭國際民事訴訟法理，就各該涉外事
+    件斟酌個案法律關係審理中，除有違背當事人間之實質公平
+    、裁判之適正、妥適、正當、程序之迅速、經濟等理念之特
+    別情事者，而應否定我國法院就各該涉外事件之國際民事裁
+    判管轄外，我國法院應有各該涉外事件之國際民事裁判管轄
+    權。
+  (四)復參酌漢堡規則第21條第1 項第C 款關於國際民事裁判管轄
+    之規定：「原告依本公約提起貨物運送法律關係之訴訟程序
+    ，得向下列國家法律規定為具有管轄權及其管轄區域內之法
+    院起訴… (c)裝貨港或卸貨港；…」
+    【In judicial proceedings relating to  carriage of
+    goods under this Convention the plaintiff, at his
+    option, may institute an action in a court which,
+    according to the law of the State where the court is
+    situated, is competent and within the jurisdiction
+    of which is situated one of the following places:...
+    (c) the port of loading or the port of discharge;...
+    】。而本件系爭貨物之買受人、要保人暨被保險人臺塑石化
+    公司、海上貨物保險人即原告，系爭貨物之卸貨港為我國麥
+    寮港，且系爭貨物毀損檢定等相關證據資料均在我國，足徵
+    系爭貨物毀損之損害賠償情事與我國間之關係甚為密切，我
+    國法院自有本件之國際民事裁判管轄權無訛。況被告Expedo
+    公司經到庭為本案之言詞辯論，亦未提出本件無國際民事管
+    轄權之抗辯，益徵我國法院受理本件涉外民事之海商及保險
+    事件，殊無礙於當事人間之公平使用審判制度機會，裁判之
+    適正、妥適、正當，程序之迅速、經濟等民事訴訟法理之特
+    別情事存在，故我國法院自有本件之國際民事管轄權，毋庸
+    置疑。
+五、內國具體管轄權之確定：本件係因原告基於保險代位、載貨
+    證券等法律關係而涉訟，而系爭貨物之卸貨港為我國麥寮港
+    ，依海商法第78條第1 項規定，則本院自有內國民事訴訟程
+    序之具體管轄權至明。被告Expedo公司經到場為本案之言詞
+    辯論，亦不為本院無內國具體管轄權之抗辯，依民事訴訟法
+    第25條規定，本院確有本件之內國具體管轄權，至為明灼。
+貳、實體事項：
+一、原告方面：
+  (一)緣被告Expedo公司於年民國97年（西元2007年）8 月間，以
+    系爭船舶承運原告所承保之訴外人臺塑石化公司自沙烏地阿
+    拉伯進口至臺灣麥寮之系爭貨物乙批，並開立清潔（CLEAN
+    ON BOARD）之系爭載貨證券，載明貨物數量為25,679.689M/
+    TS。詎料，系爭貨物於97年9 月5 日運抵臺灣麥寮港時，發
+    現系爭貨物發生短少，短少數量計算如下：船上數量為25,
+    488.075M/TS ，短少191.614M/TS （短少率為0.7461％）；
+    岸槽數量為25,476.783M/TS，短少202.906M/TS （短少率為
+    0.79014 ％），此有國泰公證股份有限公司之公證報告可稽
+    ，訴外人臺塑石化公司總計損失新臺幣（下同）2,735,033
+    元。
+  (二)按「運送人對於運送物之喪失、毀損或遲到，應負責任」民
+    法第634 條定有明文。又按「提單填發後，運送人與提單持
+    有人間，關於運送事項，依其提單之記載。」、「債務人之
+    代理人或使用人，關於債之履行有故意或過失時，債務人應
+    與自己之故意或過失，負同一責任」同法第627 條及第224
+    條分別定有明文。而本件被告開立清潔之系爭載貨證券載明
+    運送之系爭貨物數量為25,679.689M/TS，當貨物運抵麥寮港
+    時，竟嚴重短少，造成訴外人臺塑石化公司損失2,735,033
+    元（已經扣除5 ％之自然耗損率），被告Expedo公司自應負
+    債務不履行之損害賠償責任。因訴外人臺塑石化公司僅向原
+    告投保40％，故僅向原告請求保險理賠1,094,001 元，今原
+    告已理賠訴外人臺塑石化公司1,094,001 元，而取得代位求
+    償權，並受讓對於被告所持有一切請求權，原告自得依我國
+    民法、海商法及相關法律之規定向被告請求1,094,001 元之
+    損害賠償。
+  (三)對被告答辯之陳述：
+    1.依據我國海商法第60條規定：「以船舶之全部或一部供運
+      送為目的之運送契約另行簽發載貨證券者，運送人與託運
+      人以外載貨證券持有人間之關係，依載貨證券之記載。」
+      依系爭載貨證券之記載Shell International Trading
+      Middle East Limited （SITME ）為系爭貨物名義上之貨
+      主，因此依據我國海商法第60條規定，認定本案法律關係
+      之基礎應以系爭載貨證券之記載為準，而非被告所提之定
+      期傭船契約（Time Charter Party）。據此，被告所提之
+      宣示證言書（AFFIDAVIT ）及定期傭船契約（Time
+      Charter Party ）乃是被告與託運人間之內部契約關係，
+      不得對抗原告。
+    2.次按我國海商法第74條規定：「載貨證券之發給人，對於
+      依載貨證券所記載應為之行為，均應負責」而本案系爭載
+      貨證券係船長所簽發，依據我國海商法第53條規定：「運
+      送人或船長於貨物裝載後，因託運人之請求，應發給載貨
+      證券」民法第625 條亦規定：「運送人於收受運送物後，
+      因託運人之請求，應填發提單」據此，依民法及海商法之
+      規定填發提單（或載貨證券）之義務人且應負載貨證券責
+      任之人，係指「運送人」，而不一定是「船東」。而本案
+      系爭船舶雖登記在Bravo 公司名下，但該公司實際上並無
+      參與本件貨物運送，而是由被告公司擔任海上航行實際運
+      送及管理業務，此從被告所提出之船舶資料所載：「ship
+      Manger：乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）Ltd.」即可
+      證明之。再依據國泰公證股份有限公司之公證報告影本附
+      件九，被告於收受貨物時出具系爭貨物在裝船時之耗損量
+      報告及貨物計算交給託運人，亦可證明被告確負本案系爭
+      船舶之實際海上航行管理之責，而為系爭載貨證券所表彰
+      之運送契約之運送人，因此本案系爭載貨證券所表彰運送
+      契約之「運送人」為被告，被告自應負系爭載貨證券所表
+      彰之運送人責任。
+    3.依據麥寮工業區專用港管理股份有限公司99年2 月12回覆
+      法院之附件一所載：「Technical operator：乙○○○○○
+      ○○○○ ○○○○○○○○○○(Canada) Ltd.」足證本案系爭船舶海上
+      航運經營管理事務，係由被告公司所負責，因此被告正是
+      我國民法及海商法上所指系爭載貨證券所表彰之實際海上
+      運送營運人，故被告自應負系爭載貨證券之運送人責任。
+      至於該回函附件一所載：「Commercial Operator ：
+      Expedo Shipping Corporation 」係指陸上貨物招攬之商
+      業經理人，並不負責海上航行管理事務，因此並非系爭載
+      貨證券所表彰之海上航運運送人，此從被告所提之船舶之
+      資料僅記載「Ship Manager ：乙○○○○○ ○○○○ ○○○○○○○○○○
+      （Canada）Ltd.」對外公示，以保護交易安全，並無記載
+      ：「Commercial Operator ：Expedo Shipping
+      Corporation」至明。
+    4.依據Shell 公司回覆原告代理人的電子郵件上記載：「我
+      的倫敦的同事告訴我，這是乙○○○○○ ○○○○ ○○○○○○○○○○ （
+      Canada）Ltd 要求Shell 公司就所有船舶的操作營運事宜
+      與乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）Ltd.和船長聯絡。
+      （My London colleauge informed me that it was
+      乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）Ltd that asked
+      Shell to communicate with them and the captain for
+      all ship operations matters.」、「我們不知道Bravo
+      Express Corporation.和乙○○○○○ ○○○○ ○○○○○○○○○○（
+      Canada）Ltd.之間內部安排為何，也不知道他們人事、股
+      東等是否有相同之處。（We are not privy to the
+      internal arrangement between Bravo Express
+      Corporation.and 乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）
+      Ltd,or whether there is any overlap in personnel,
+      shareholdings,etc.）」、「關於本件索賠案，Shell 是
+      與乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）Ltd.聯絡。（
+      Shell communicates with EXPEDO SHIP MANAGENENT （
+      CANADA）LTD. in respect of this claim.）」、「Shel
+      l 否認他們是簽發本件載貨證券之運送人。（Shell
+      denies that it is the Carrier that issued the BLs.
+      In particular ）」亦可證明本案被告Expedo公司為系爭
+      船舶之實際操作營運人（operator），亦即系爭船舶之實
+      際運送人（Carrier ），因此本案系爭載貨證券上之船長
+      係受被告之指揮監督，Shell 公司只是系爭載貨證券之受
+      貨人（Consignee ），因此被告Expedo公司自應對系爭貨
+      損負運送人賠償責任。
+    5.至於臺塑通運股份有限公司函覆法院之附件雖載明系爭船
+      舶就本件航程之運送人為GAC （SINGAPORE ），惟該進港
+      簽證資料僅是我國交通部就管理船舶本身（非航運運送事
+      務）可否進入臺灣港口之在臺文件，無法作為認定運送人
+      之依據。臺塑通運股份有限公司僅是「港代」地位，負責
+      辦理「船舶」進港之行政港簽事務，如同旅行團抵達外國
+      時之「地陪」身份，因此GAC （SINGAPORE ）僅是運送人
+      的在臺業務聯絡人，並非真正的運送人。因此本件運送人
+      為何人，仍須依據我國海商法及民法之規定就實際負責船
+      舶營運操作之人而為判斷。
+  (四)並聲明：
+    1.被告應給付原告1,094,001 元，及自起訴狀繕本送達翌日
+      起至清償日止，按年息百分之五計算之利息。
+    2.訴訟費用由被告負擔。
+    3.願供擔保，請准宣告假執行。
+二、被告則以：
+  (一)原告所提出之系爭載貨證券右上角為託運人ENOC之標誌及名
+    稱，左下角為系爭船舶之船長簽名及該船舶之船章，下方則
+    為長方形戳章，內載：「交給Shell Eastern Trading （
+    PTE）LTD.所擁有之Shell International Eastern Trading
+    Company （以下稱SIETCO）所指定之人（Deliver to the
+    order of:Shell International Eastern Trading Company
+    （SIETCO）owned by Shell Eastern Trading（PTE ）LTD.
+    ）」。整張系爭載貨證券完全無被告之名稱，原告主張系爭
+    載貨證券為被告所開立，顯不可採。
+  (二)本件系爭船舶之所有人（船東）為Bravo Express Corp. ，
+    並非被告，被告僅是該船舶之經理人，有船舶資料可稽，原
+    告以該船船長簽發之系爭載貨證券，主張被告為運送人，顯
+    無理由。
+  (三)由經駐法國臺北代表處認證之宣示證言書（AFFIDAVIT ）及
+    定期傭船契約（Time Charter Party）可知系爭船舶自96年
+    8 月3 日起即由船東Bravo Express Corp. 將該船傭租給
+    Shell International Middle Trading East Limited （
+    SITME ），租期3 年加或減15日，後又變更延長為5 年，故
+    系爭船舶之傭租期限係至101 年8 月3 日止，而依該定期傭
+    船契約（Time Charter Party）第13.a條之約定，該船船長
+    雖由船東Bravo Express Corp .僱用，但係依傭船人SITME
+    之指示使用船舶，並依傭船人SITME 或其代理人之指示簽發
+    系爭載貨證券。本件系爭載貨證券係由船長於97年8 月4 日
+    所簽發，尚在該傭船契約（Time Charter Party）所訂之傭
+    船期間內。而當系爭船舶船長於97年8 月4 日在阿拉伯聯合
+    大公國杜拜的Jebel Ali 港口裝完系爭貨物後，即發電子郵
+    件給傭船人SITME ，向其報告裝貨數量，並請其確認及准許
+    簽發系爭載貨證券；傭船人SITME 於同日回函指示船長簽發
+    載貨證券，足證系爭載貨證券係該輪船船長代理傭船人
+    SITME 所簽發，本件系爭貨物之運送人為傭船人SITME ，並
+    非被告。
+  (四)由系爭船舶之船舶資料記載該船之ISM 經理人（ISM
+    Manager ）為被告。依訴外人劉慶林先生於96年10月23日所
+    撰寫之< 臺灣海難與海事評議制度之研究> 一文第1 頁至第
+    9 頁影本可知國際船舶安全營運與防止污染管理規則（下稱
+    ISM Code）是國際海事組織所制訂之國際公約，所有500 總
+    噸以上之客輪、油輪、化學品船、液化氣船、貨船等，均必
+    須通過船籍國政府主管機關或其認可機構依該國際公約所為
+    之審核認證，並獲得船舶安全管理證書，始可在國際間航行
+    ，而港口國始准許其進出港口，故船公司對ISM Code及其制
+    度均相當重視，本件系爭船舶即聘僱被告為ISM 經理人，對
+    ISM Code所要求之船舶安全管理及防止污染事項提供技術服
+    務及管理，以確保該船能安全航行於各國際港口間，故被告
+    僅為系爭船舶之ISM 經理人，而非運送人。
+  (五)另由麥寮工業區專用港管理股份有限公司99年2 月12函覆法
+    院之系爭船舶於97年9 月5 日申報進港之資料可知：(1)該船
+    舶之登記船東為Bravo Express Corp. 而與被告所提之船舶
+    資料相符。(2)該船舶之技術上營運人（Technical operator
+    ）為被告，與原告所提之船舶資料所載被告為該船舶之ISM
+    經理人相符。(3)該船舶之商業上營運人（Commercial
+    operator 為Expedo Shipping Corporation ，並非被告。
+    (4)本件船舶之幹部及船員均非被告所僱用。(5)本件船舶於西
+    元2008年8 月4 日載運系爭貨物前之傭船人，不論事前第一
+    次、前第二次或前第三次之航程均為Shell 公司，與被告所
+    提宣示證言書（AFFIDAVIT ）及定期傭船契約（Time
+    Charter Party）所載本件船舶自96年8 月3 日起即由船東
+    Bravo Express Corp. 將該船傭租給SITME ，租期3 年，後
+    又變更延長為5 年所載相符。足見被告僅是本件船舶之技術
+    上營運人（Technical operator）、ISM 經理人（ISM
+    Manager ），對ISM Code所要求之船舶安全管理及防止污染
+    事項，對本件船舶提供技術服務及管理。被告既非本件船舶
+    之船東或商業上營運人，亦非系爭貨物之運送人或載貨證券
+    簽發人至明。
+  (六)又系爭船舶於定期傭船期間內之99年1 月6 日又到臺灣麥寮
+    港卸貨，由臺塑通運股份有限公司擔任港口代理行，而依當
+    時船舶進出港資料，系爭船舶之船東為Bravo Express
+    Corporation 」，運送人則為SIETCO，並非被告，則對於系
+    爭船舶在定期傭船期間內之本件貨物運送，其運送人自非被
+    告。
+  (七)再依據原告所提原告訴訟代理人與Shell 公司之往來郵件內
+    容：
+    2010年3月16日11時59分25秒，Shell致原告律師事務所：
+      我昨天就此事與你們一位男同事通話，但不知他的姓名。
+      我同意提供給他下述資訊，請您轉交給他：
+      1.系爭船舶是Shell International Trading Middle
+        East （SITME）向BRAVO EXPRESS CORPORATION傭租。
+      2.租金是給付給BRAVO EXPRESS CORPORATION。
+      3.關於貨物作業，SITME 是直接與"New Challenge" 輪的
+        船長聯絡，副本給乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）
+        Ltd.。
+      4.關於本件索賠案，Shell 是與乙○○○○○ ○○○○ ○○○○○○○○○○
+        （Canada）Ltd.聯絡。
+      5.Shell 否認他們是簽發本件載貨證券之運送人。尤其當
+        載貨證券是船舶或船東簽發之情形，依普通法，此時船
+        舶所有人才是載貨證券之運送人。
+      （I spoke with a male colleague of yours yesterday
+        on this matter,but did not manage to catch his
+        name. Anyway I agreed to provide him with the
+        following information,which I shall be grateful
+        if you can forward to him:
+        1.The vessel was chartered by Shell
+          International Trading Middle  East Limited （
+          SITME ）from BRAVO EXPRESS CORPORATION.
+        2.Hire was paid to BRAVO EXPRESS CORPORATION.
+        3.SITME communicated directly with the master of
+          the  NEW CHALLENGE for the cargo
+          operations,with copy to EXPEDO SHIP MANAGENENT
+          （CANADA）LTD.
+        4.Shell communicates with EXPEDE SHIP MANAGENENT
+          （CANADA）LTD. in respect of this claim.
+        5.Shell denies that it is the Carrier that
+          issued the BLs.In particular,if the BL is
+          issued on behalf of the vessel or the owners,
+          then by general law,it should be the owners of
+          the vessel that is the carrier under the BL.）
+    2010年3月16日下午4時15分，原告律師事務所致Shell：
+      謝謝您的來信。關於您所述之事，我們想知道為何SITME
+      的通信要副本給乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）Ltd.
+      。乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）Ltd.是實際運送人
+      或實際營運人？（Thanks for your letter. Refer to
+      your statement,we want to konw why SITME
+      communicated with copy to EXPEDE SHIP MANAGENENT
+     （CANADA）LTD.Were EXPEDO  SHIP MANAGENENT（CANADA）
+      LTD.the actual Carrier of actual Operator?）
+    2010年3 月16日16時18分51秒，Shell 致原告律師事務所
+      ：
+      就我們所知，乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）Ltd.是
+      技術上的經理人。如前所述，我們向Bravo Express
+      Corporation.傭租系爭船舶，並付租金給Bravo Express
+      Corporation.我們不知道Bravo Express Corporation.和
+      乙○○○○○ ○○○○ ○○○○○○○○○○（Canada）Ltd.之間內部安排為
+      何，也不知道他們人事、股東等是否有相同之處。（As
+      for as we are aware,EXPEDO SHIP MANAGENENT（CANADA
+      ）LTD are the technical managers.As stated earlier
+      ,we chartered the vessel from Bravo Express
+      Corporation and paid hire to Bravo Express
+      Corporation.We are not privy to the internal
+      arrangement between BRAVO EXPRESS CORPORATION.and
+      EXPEDO SHIP MANAGENENT（CANADA）LTD,or whether
+      there is any overlap in personnel,shareholdings,
+      etc.）
+    2010年3月17日10時37分14秒，原告律師事務所致Shell：
+      那麼，請說明為何SITME 的通信要副本給乙○○○○○ ○○○○
+      ○○○○○○○○○○（Canada）Ltd.，而不是給Bravo Express
+      Corporation ？（Then,please explain why SITME
+      communicated with copy to EXPEDO SHIP MANAGENENT（
+      CANADA）LTD,not to BRAVO EXPRESS CORPORATION？）
+    2010年3 月17日10時45分10秒，Shell 致原告律師事務所
+      ：我必須向我的倫敦同事仔細詢問，但相信透過船的經理
+      人與船東聯絡是很常見的事情。（I'll have to double-
+      check with my London colleagues,but believe it is
+      common for communications with ship-owners to be
+      with the ship managers. ）
+    2010年3 月17日8時38分，Shell 致原告律師事務所：
+      我的倫敦同事告訴我，是乙○○○○○ ○○○○ ○○○○○○○○○○（
+      Canada）Ltd.請Shell 就船的營運事務與他們及船長聯絡
+      。我要強調Expedo從未說他們是系爭船舶之所有人。（My
+      London colleagues informed me that it was 乙○○○○○
+      ○○○○ ○○○○○○○○○○ （Canada）Ltd that asked Shell to
+      communicate with them and the captain for all ship
+      operations matters.I would higlight that nowhere
+      did Expedo say that they are the owners of the
+      vessel. ）
+    亦可知被告Expedo公司確實僅是系爭船舶之技術上經理人，
+    不是系爭貨物之運送人或系爭載貨證券簽發人。
+  (八)再由臺塑通運股份有限公司函覆法院之附件已載明系爭船舶
+    就本件航程之運送人為GAC （SINGAPORE ），益見系爭船舶
+    本次航程之運送人並非被告。
+  (九)退步而言，縱認為被告為系爭貨物之運送人，但依據被告所
+    製作之耗損量報告及貨物計算表系爭貨物裝船之數量為2553
+    1.459M/TS （in air）即25128.21 6LT（in air），故系爭
+    貨物運抵麥寮港後之數量尚在5%之自然耗損範圍，故原告不
+    可請求運送人負貨物短少之損害賠償責任。
+  (十)並聲明：求為判決如主文所示。
+三、兩造不爭執事項及主要爭點：
+  (一)不爭執事項：
+    1.系爭船舶於97年8 月間，承運原告所承保之訴外人臺塑石
+      化公司自沙烏地阿拉伯進口至臺灣麥寮之NAPHTHA （石油
+      腦）貨物一批，並由系爭船舶船長開立清潔之系爭載貨證
+      券載明貨物數量為25679.689 M/TS，惟系爭貨物於97年9
+      月5 日運抵麥寮港時，發現系爭貨物短少，訴外人即貨主
+      臺塑石化公司遂向原告索賠1,094,001 元。
+    2.原告已依其與訴外人臺塑石化公司間所簽訂之保險契約，
+      賠償訴外人臺塑石化公司1,094,001 元。
+  (二)爭執事項：
+    1.系爭貨物短少之數量為何？
+    2.本件海上運送契約之運送人為何人？
+    3.若被告為運送人，其是否負貨物短少之賠償責任？賠償金
+      額？
+四、本院之判斷
+  (一)上開不爭執事項，業據原告提出系爭載貨證券影本、國泰公
+    證股份有限公司公證報告書、訴外人臺塑石化公司之索賠函
+    、原告之代為賠償收據各1 份在卷可稽（本院卷第4 頁至第
+    16頁），並為被告所不爭執，自堪信為真實。
+  (二)本件為涉外民事海商事件，已如前述，則：本件涉外系爭載
+    貨證券法律關係之準據法？
+    按載貨證券所載之裝載港或卸貨港為中華民國港口者，其載
+    貨證券所生之法律關係依涉外民事法律適用法所定應適用法
+    律。但依本法中華民國受貨人或託運人保護較優者，應適用
+    本法之規定。海商法第77條定有明文。查系爭貨物之卸貨港
+    為我國麥寮，故本件涉外系爭載貨證券法律關係之準據法自
+    應依涉外民事法律適用法所定應適用之法律；惟遍閱涉外民
+    事法律適用法中並無明文載貨證券所生之法律關係應適用法
+    律之規定，而載貨證券為具有物權效力之有價證券外，雖尚
+    有運送契約證明之性質，惟其與運送契約之法律關係截然分
+    立，故因載貨證券而生之法律關係，其準據法應獨立予以決
+    定，殊非當然適用運送契約之準據法。蓋因載貨證券而生之
+    法律關係，主要是運送人及其使用人或代理人對於載貨證券
+    之持有人，應依載貨證券之文義負責之關係，至於該持有人
+    是否為運送契約之當事人，或是否為直接自託運人受領載貨
+    證券之人，均非所問。基此，載貨證券之簽發與收領亦為法
+    律行為，則本件涉外系爭載貨證券法律關係之準據法，自仍
+    依應依涉外民事法律適用法第6 條規定：「法律行為發生債
+    之關係者，其成立要件及效力，依當事人意思定其應適用之
+    法律。當事人意思不明時，同國籍者依其本國法，國籍不同
+    者依行為地法，行為地不同者以發要約通知地為行為地，如
+    相對人於承諾時不知其發要約通知地者，以要約人之住所地
+    視為行為地。前項行為地，如兼跨二國以上或不屬於任何國
+    家時，依履行地法。查系爭載貨證券正、反面均未記載準據
+    法之適用條款，且該載貨證券正面下方戳記載有：「交付給
+    Shell Eastern Trading （PTE）LTD.所擁有之Shell
+    International Eastern Trading Company （SIETCO）所指
+    定的人（Deliver to the order of:Shell International
+    Eastern Trading Company （SIETCO）owned by Shell
+    Eastern Trading （PTE ）LTD.」而為受貨人尚待指定之指
+    示載貨證券（order B/L ），亦即載貨證券簽發時，究竟最
+    後何人持有載貨證券，而得請求交貨尚未確定，即載貨證券
+    之當事人並未確定，當無法依當事人意思定其應適用之法律
+    。而系爭載貨證券為船長代理外國法人所簽發，持有人為訴
+    外人臺塑石化公司，兩者國籍不同，從載貨證券之記載又無
+    從得知簽發載貨證券之行為地、發要約通知地、要約人之住
+    所地為何，則本件簽發載貨證券之行為地亦屬不明，則依涉
+    外民事法律適用法第6 條第3項 規定：「前項行為地，如兼
+    跨二國以上或不屬於任何國家時，依履行地法」。即契約訂
+    立跨越數國或地點不明時，而無法依同條第2 項確定準據法
+    ，即依契約履行地法為準據法（參李復甸教授著，新海商法
+    架構下運送契約之準據法一文）。且以履行地作為連繫因素
+    之立論認為，履行為契約之最終目的，且常為當事人所留意
+    ，並力求明確，不若契約訂立地多出於偶然（參馬漢寶教授
+    著，國際私法總論，第十一版（臺北：自版，民國79年8 月
+    ），第111 頁）。我國國際私法立法上，將履行地作為最後
+    連繫因素，其功能在補助依當事人意思、國籍及行為地無法
+    決定準據法之不足。而基本上持有載貨證券第三人憑證券向
+    運送人請求交付運送物，即可以貨物交付地視為履行地（參
+    同上李復甸教授著，新海商法架構下運送契約之準據法一文
+    ）。則本件系爭貨物係運抵我國麥寮港，由訴外人臺塑石化
+    公司持系爭載貨證券請求交付系爭貨物，則我國為載貨證券
+    之履行地無疑，依涉外民事法律適用法第6 條第3 項定，系
+    爭載貨證券之法律關係當應依我國法律為準據法，亦可認定
+    。
+  (三)按民法第六百二十七條至第六百三十條關於提單之規定，於
+    載貨證券準用之。以船舶之全部或一部供運送為目的之運送
+    契約另行簽發載貨證券者，運送人與託運人以外載貨證券持
+    有人間之關係，依載貨證券之記載。我國海商法第60條定有
+    明文。又依據我國海商法第60條第1 項準用我國民法第627
+    條規定：「提單填發後，運送人與提單持有人間，關於運送
+    事項，依其提單之記載。」係就載貨證券之文義性而為規定
+    。蓋載貨證券因背書轉讓，輾轉流通，外表易知，實際難曉
+    ，法律為保護善意持有人及獎勵流通起見，使之具有文義性
+    ，俾善意之載貨證券持有人，對於運送人之權義，悉依載貨
+    證券上記載文義決定之。換言之，載貨證券上之記載，縱與
+    運送契約之內容不符，對善意之載貨證券持有人，仍以載貨
+    證券上記載之文義為準。查本件系爭載貨證券上載有「
+    CLEAN ON BOARD」字樣，即為清潔載貨證券（clean B/L ）
+    ，即運送人對於載貨證券上所載貨物之種類、品質、數量、
+    情狀及包皮之種類、個數及標誌等無任何保留或批註，依上
+    開載貨證券文義性之規定，本件運送人當需對系爭載貨證券
+    上所載之系爭貨物之數量負文義責任，而擔保系爭貨物之數
+    量並無短少。而系爭載貨證券業已載明系爭貨物數量為25,6
+    79.689M/TS，有系爭載貨證券影本在卷可憑（本院卷第4 頁
+    ）。但系爭貨物於97年9 月5 日運抵我國麥寮港時，發現系
+    爭貨物發生短少，短少數量計算如下：船上數量為25,488.
+    075M/TS，短少191.614M/TS （短少率為0.7461％）；岸槽
+    數量為25,476.783M/TS，短少202.906M/TS （短少率為0.79
+    014％ ），有國泰公證股份有限公司之公證報告可佐（本院
+    卷第5 頁至第14頁）。則原告主張系爭貨物與系爭載貨證券
+    上所載數量不符，載貨數量有短少乙情，即屬有據。被告
+    Expedo公司徒以載貨證券以外之自行製作之耗損量報告及貨
+    物計算表（本院卷第14頁）辯稱系爭貨物裝船之數量為2553
+    1.459M/TS（in air）即25128.216LT （in air），故系爭
+    貨物運抵麥寮港後之數量尚在5％之自然耗損範圍，故原告
+    不可請求運送人負貨物短少之損害賠償責任云云，係以載貨
+    證券以外之文件對抗載貨證券持有人，與載貨證券之文義性
+    相違，要屬不可採。
+  (四)本件為原告臺灣產物保險股份有限公司基於保險代位、載貨
+    證券之法律關係，主張被告Expedo公司為系爭貨物之運送人
+    ，並主張載貨證券上之船長簽名係代表被告Expedo公司所簽
+    發，而請求被告Expedo公司對系爭貨物之短少負損害賠償責
+    任。被告Expedo公司抗辯稱其並非系爭貨物運送契約之運送
+    人，運送人係訴外人Shell International Trading Middle
+    East Limited（SITME ），則本件主要爭點厥為系爭船舶本
+    次航程，載運系爭貨物之運送人究竟是否為被告Expedo公司
+    。按當事人主張有利於己之事實者，就其事實有舉證之責任
+    。民事訴訟法第277 條前段定有明文。另民事訴訟如係由原
+    告主張權利者，應先由原告負舉證之責，若原告先不能舉證
+    ，以證實自己主張之事實為真實，則被告就其抗辯事實即令
+    不能舉證，或其所舉證據尚有疵累，亦應駁回原告之請求。
+    法院不能依當事人聲明之證據而得心證，或因其他情形認為
+    必要時，得依職權調查證據，雖為民事訴訟法第288 條所明
+    定，然當事人之舉證責任，並不因之而減輕，故因未盡舉證
+    責任致受敗訴判決之當事人，不得以法院未行使此職權為上
+    訴之理由。最高法院48年臺上字第29號、17年上字第917 號
+    、30年上字第204 號等判例著有明文。經查：
+    1.按稱運送人者，謂以運送物品或旅客為營業而受運費之人
+      。我國民法第622 條定有明文，並為我國海商法所準用。
+      運送人乃運送契約之當事人，而載貨證券為運送契約之證
+      明，殆已為各國海商法之學說、審判或海運實務不刊之論
+      ，而依據我國海商法第60條及該條準用我國民法第627 條
+      至第630 規定，載貨證券之運送人及持有人間之權利義務
+      ，採文義性原則，即本件首需由系爭載貨證券之文義以判
+      斷運送人為何人。查系爭載貨證券（本院卷第4 頁）右上
+      角為託運人ENOC之標誌及名稱，載貨證券證券號碼下記載
+      「貨物由ENOC PROCESSING COMPANY LLC 代理ENCO
+      SUPPLY AND TRADING LLC代理ENOC SINGAPORE於馬歇爾群
+      島裝船時情況及外表良好，內燃機船"NEW CHALLENGE "，
+      船長為CHU,JIN-SHENG ，在阿拉伯聯合大公國杜拜Jebel
+      Ali 港據稱商品為（Shipped on board in apparent
+      good order and condition by ENOC PROCESSING
+      COMPANY LLC ON BEHALF OF ENCO SUPPLY AND TRADING
+      LLC ON BEHALF OF ENOC SINGAPORE in and upon the
+      MARSHALL ISLAND motorship M.T.NEW CHALLENGE
+      whereof CAPT. CHU,JIN -SHENG is the master at
+      Jebel Ali,Dubai,U.A.E. merchandise said to be ）」
+      。另系爭載貨證券左下角為系爭船舶之船長簽名及該船舶
+      之船章，下方則為長方形戳章，內載：「交給Shell
+      Eastern Trading（PTE ）LTD.所擁有之Shell
+      International Eastern Trading Company （SIETCO）所
+      指定之人（Deliver to the order of:Shell
+      International Eastern Trading Company （SIETCO）
+      owned by Shell Eastern Trading（PTE ）LTD.」。整張
+      系爭載貨證券完全無被告Expedo公司之名稱顯現，故原告
+      主張系爭載貨證券為船長代理運送人即被告Expedo公司所
+      開立等情，由系爭載貨證券之文義並無法證明。
+    2.原告另依國泰公證股份有限公司公證報告附件九（
+      Attachment 9 ）之耗損量報告及貨物計算表（Ullage
+      Report & Cargo Calculations ，本院卷第14頁）主張被
+      告Expedo公司為本次航程系爭貨物之運送人，惟查該耗損
+      量報告及貨物計算表之抬頭雖印有被告之名稱及標誌，但
+      綜觀該文件之記載事項為系爭貨物之名稱、艙位（tank）
+      、耗損量（Ullage）、溫度、密度、數量等測量資料，經
+      由測量員（surveyor）簽名，再經系爭船舶之大副蓋印戳
+      記。而一般海運實務於運送人收受貨物後，傳統之作法為
+      先由理貨人員摯給「理貨單」（tally sheet ），其後裝
+      船後由大副發給「大副收據」（mate's receipt），再憑
+      以請求運送人換取「裝船載貨證券」（shipped B/L ）。
+      近實務界為簡化程序，乃將「理貨單」換取「收受載貨證
+      券」（received B/L），而於貨物裝船後，再交還收受載
+      貨證券請求發給裝船載貨證券，或逕於收受載貨證券上蓋
+      上「裝船」（on board）等字樣，使之成為裝船載貨證券
+      （參楊仁壽大法官著，載貨證券，97年12月版，第37頁）
+      故該被告Expedo公司所製作之耗損量報告及貨物計算表在
+      性質上應僅為「理貨單」（tally sheet ），而被告
+      Expedo公司應僅為理貨員或測量員之經理人，故由該耗損
+      量報告及貨物計算表亦不能證明被告Expedo公司即為系爭
+      貨物之運送人，要屬無疑。
+    3.原告又主張依據被告Expedo公司所提出之船舶資料所載：
+      「ship Manger ：乙○○○○○ ○○○○ ○○○○○○○○○○（Canada ）
+      Ltd.」即可證明被告為系爭貨物之運送人。惟由該船舶資
+      料亦記載該船舶之ISM 經理人（ISM Manager ）為被告，
+      依被告Expedo公司所提出之訴外人劉慶林先生於96年10月
+      23日所撰寫之< 臺灣海難與海是評議制度之研究> 一文第
+      8 頁所載：「根據<<國際船舶安全應運與防止污染管理規
+      則>>（THE INTERNATIONAL MANAGEMENT CODE FOR THE
+      SAFE OPERATION OF SHIPS AND FOR POLLUTION
+      PREVENTION，簡稱ISM CODE），所有的500 總噸及500 總
+      噸以上的客輪、油輪、化學品船、液化氣船、高速水翼貨
+      船等都必須在西元1998年7 月1 日之前取得通過船籍國政
+      府主管機關或其認可機構的審核認證並獲得船舶安全管理
+      證書。對於其他500 總噸及500 總噸以上的貨船和可移動
+      海上鑽探裝置，ISM CODE的生效時間為西元2002年7 月1
+      日。ISM CODE對安全和環境保護提供統一的標準，然後由
+      合格的審核員以按正式的審核程式進行審核。根據ISM
+      CODE和安全管理體系（SAFETY MANAGEMENT SYSTEM），船
+      東制定關於安全和環境保護政策並要求每艘船舶都存有書
+      面的特別程式和建立不符合及事故的報告程式，管理人員
+      對有關安排所進行評判，而船舶經營人的所有資訊都必須
+      提供給船籍國政府。…國際社會和海運國家把ISM CODE當
+      作是提高船岸管理安全意識的重要工具，而港口國管制亦
+      把監督實施ISMCODE 作為其重要內容。為配合ISM CODE的
+      實施，巴黎備忘錄正在開展一個按ISM CODE要求對船舶和
+      人員進行檢驗的運動，沒有持證營運的船舶將受到警告並
+      可能因未遵約而被扣留，同時禁止以後再進入扣押地港口
+      ；東京備忘錄的措施與巴黎備忘錄相似，而美國海岸防衛
+      隊則禁止未完全遵從ISM CODE的船舶入境。」可知國際船
+      舶安全營運與防止污染管理規則是國際海事組織所制訂之
+      國際公約，所有500 總噸以上之船舶，均必須通過船籍國
+      政府主管機關或其認可機構依該國際公約所為之審核認證
+      ，並獲得船舶安全管理證書，始可在國際間航行，而港口
+      國始准許其進出港口，故船公司對ISM CODE及其制度均相
+      當重視，本件系爭船舶即聘僱被告Expedo公司為系爭船舶
+      之ISM 經理人，其對ISM CODE所要求之船舶安全管理及防
+      止污染事項提供技術服務及管理，以確保該船能安全航行
+      於各國際港口間，故被告僅為系爭船舶之ISM 經理人及船
+      舶經理人（ship Manager），而非運送人，至為灼然。
+    4.再者，原告依據麥寮工業區專用港管理股份有限公司99年
+      2 月12回覆法院之附件一（本院卷第125 頁）所載：「
+      Technical operator：乙○○○○○ ○○○○ ○○○○○○○○○○
+      (Canada)Ltd.」主張本案系爭船舶海上航運經營管理事務
+      ，係由被告公司所負責，因此被告正是我國民法及海商法
+      上所指系爭載貨證券所表彰之實際海上運送營運人，故被
+      告自應負系爭載貨證券之運送人責任云云。惟由1924年海
+      牙規則（International Convention for the
+      Unieication of Certain Rules of Law Relating to
+      Bills of Lading 1924）及1968年海牙威士比規則（The
+      Hague Rules as Amended by the Brussels Protocol
+      1968）對運送人均載為「carrier 」（'Carrier'
+      includes the owner or the charterer who enters
+      into a contract of carriage with a shipper. ）。另
+      1978年漢堡規則亦將運送人區分為「運送人（carrier ）
+      」及「實際運送人（actual carrier）」（"Carrier"
+      means any person by whom or in whose name a
+      contract of carriage of goods by sea has been
+      concluded with a shipper."actual carrier" means
+      any person to whom the performance of the carriage
+      of the goods, or of part of the carriage,has been
+      entrusted by the carrier,and includes any other
+      person to whom such performance has been entrusted
+      ）。可知運送人之正式法律用語為「Carrier 」，並非「
+      Technical operator」，且二者並非同義詞，原告自行將
+      「Technic al operator 」解釋為運送人並無所據。反之
+      被告辯稱其僅為系爭船舶之「技術上營運人」應較符合文
+      義。況由麥寮工業區專用港管理股份有限公司99年2 月12
+      函覆本院之系爭船舶於97年9 月5 日申報進港之資料並可
+      知：
+      (1)該船舶之登記船東為Bravo Express Corp. 而與被告所
+        提之船舶資料相符（本院卷第125 頁，Registered
+        owner-Full style：Bravo Express Corporation.）。
+      (2)該船舶之商業上營運人（Commercial operator 為
+         Expedo Shipping Corporation，並非被告（本院卷第
+         125 頁，Commercial operator-Full style:Expedo
+         Ship Manager (Cannda)Ltd. ）。
+      (3)本件船舶之幹部及船員均非被告所僱用（本院卷第127
+        頁，If Officers/Crew employed by a Manning
+        Agency-Full style:Expedo Kanglong(Shanghai)Ltd.
+        ）。
+      (4)本件船舶於西元2008年8 月4 日載運系爭貨物前之傭船
+        人，不論事前第一次、前第二次或前第三次之航程均為
+        Shell 公司（本院卷第129 頁，Last three
+        charterers(Last/2nd Last/3nd Last):Shell/Shell
+        /Shell），與被告所提宣示證言書（AFFIDAVIT ，本院
+        卷第92頁）及定期傭船契約（Time Charter Party ，
+        本院卷第93頁至第123 頁）所載本件船舶自96年8 月3
+        日起即由船東Bravo Express Corp. 將該船傭租給
+        SITME ，租期3 年，後又變更延長為5 年所載相符。
+      益見被告僅是本件船舶之技術上營運人（Technical
+      operator）、ISM 經理人（ISM Manager），對ISM CODE
+      所要求之船舶安全管理及防止污染事項，對本件船舶提
+      供技術服務及管理，而非本件船舶之船東或商業上營運人
+      ，亦非系爭貨物之運送人或載貨證券簽發人至明。
+    5.原告另主張系爭貨物裝船後系爭船舶船長曾發一電子郵件
+     （本院卷第66頁）予Shell 公司，請Shell 准許並在抗議
+      下簽發載貨證券，Shell 公司之人員並回覆「請出具抗議
+      函及簽發載貨證券」，並副本給被告，故被告為系爭貨物
+      之運送人云云。惟查，船長依海商法第53條規定：「運送
+      人或船長於貨物裝載後，因託運人之請求，應發給載貨證
+      券。」故船長當然有簽發載貨證券之權限，但在「運送人
+      載貨證券」原則下，船長簽發載貨證券係代理運送人而簽
+      發，惟此項「代理」無須特別授權，只要一經受僱主管船
+      舶，其就該船舶所收受或裝載之貨物當然即有為運送人簽
+      發載貨證券之權限（參楊仁壽大法官前揭書第118 頁）。
+      系爭船舶之船長既係代理運送人簽發載貨證券，則當貨物
+      裝船，而理貨員理貨，再經由大副開具大副收據，船長得
+      知裝船貨物數量與契約運送數量不符時，究竟是否要出具
+      抗議函及簽發清潔載貨證券，應係需徵得運送人之同意，
+      故本件倘被告為運送人，則系爭船舶之船長應該係將徵求
+      同意簽發載貨證券之電子郵件以正本發送給被告，以徵求
+      被告之同意，但船長卻係以電子郵件正本徵求Shell 公司
+      之同意，僅副本給被告，亦可認定被告並非系爭貨物之運
+      送人，其船長將電子郵件副本發送給被告僅屬副知的性質
+      ，應可認定。
+    6.原告另依據Shell 公司回覆原告代理人的數份電子郵件上
+      記載可以證明被告為系爭貨物之運送人，惟查該數份電子
+      郵件之內容（節錄，本院卷第170 頁至第172 頁）：
+      2010年3 月16日11時59分25秒，Shell 致原告律師事務
+        所：我昨天就此事與你們一位男同事通話，但不知他的
+        姓名。我同意提供給他下述資訊，請您轉交給他：
+        1.系爭船舶是Shell International Trading Middle
+          East（SITME ）向BRAVO EXPRESS CORPORATION 傭租
+          。
+        2.租金是給付給BRAVO EXPRESS CORPORATION。
+        3.關於貨物作業，SITME 是直接與"New Challenge" 輪
+          的船長聯絡，副本給乙○○○○○ ○○○○ ○○○○○○○○○○（
+          Canada）Ltd.。
+        4.關於本件索賠案，Shell 是與Expedo Ship
+          Management（Canada）Ltd.聯絡。
+         （I spoke with a male colleague of yours
+          yester day on this matter,but did not
+          manage to catch his name.Anyway I agreed to
+          provide him with the following information,
+          which I shall be grateful if you can forward
+          to him:
+           1.The vessel was chartered by Shell
+             International Trading Middle East Limited
+            （SITME ）form BRAVO EXPRESS CORPORATION.
+           2.Hire was paid to BRAVO EXPRESS CORPORATION.
+           3.SITME communicated directly with the
+             master of the NEW CHALLENGE for the cargo
+             operations,with copy to EXPEDO SHIP
+             MANAGENENT（CANADA）LTD.
+           4.Shell communicates with EXPEDE SHIP
+             MANAGENENT（CANADA）LTD. in respect of this
+             claim.
+       2010年3 月16日16時18分51秒，Shell 致原告律師事
+         務所：就我們所知，乙○○○○○ ○○○○ ○○○○○○○○○○（
+         Canada）Ltd.是技術上的經理人（As for as we are
+         aware,EXPEDO SHIP MANAGENENT（CANADA）LTD are
+         the technical managers. ）
+       2010年3 月17日10時45分10秒，Shell 致原告律師事
+         務所：但相信透過船的經理人與船東聯絡是很常見的
+         事情。（,but believe it is common for
+         communications with shipowners to be with the
+         ship managers.）
+       可查知Shell 的工作人員從未向原告告知被告為系爭貨
+       物之運送人，僅稱被告為技術上的經理人（technical
+       manager ）及船舶經理人（ship manager），故原告據
+       此主張被告為系爭貨物之運送人，要屬無據。
+    7.另由被告所提出之經駐法國臺北代表處認證之宣示證言書
+      （AFFIDAVIT ）及定期傭船契約（Time Charter Party）
+      ，其中宣示證言書載明：「本人，Alessandro Sisto，乃
+      Bravo Express Corporation 之董事，茲聲明並確認如下
+      ：1.Bravo Express Corporation 自2005 年 起就是船舶
+      "New Challenge" 的所有人（以下分別簡稱船東及船舶）
+      。2.我係經船東授權，代理船東與Shell International
+      Trading Middle East Limited （以下簡稱傭船人），於
+      2007年8 月3 日在倫敦簽訂定期傭船契約（以下簡稱傭船
+      契約）。依該傭船契約：(1)船東同意出租、傭船人同意承
+      租該船舶，為期3 年，由傭船人決定加或減15天（第4 條
+      ）；嗣依附錄1 ，變更延長為5 年。(2)關於船舶之使用、
+      代理及其他安排，船長（雖由船東指定）應聽從傭船人之
+      命令及指示辦理，並依傭船人或其代理人之指示簽發載貨
+      證券（第13.a條）。3.茲附上由我代理船東與傭船人簽訂
+      之傭船契約影本1 份。為證明上述，我於2009年12月31日
+      作成本文件。（原文節錄：(1)Owners agree to let and
+      Charterers agree to hire the Ship for a period of
+      3 years with 15 days more or less in Charterers'
+      option(clause 4 )extended to 5 year as per
+      Addendum No.1 ；and(2 )The master(although
+      appointed by Owners)shall be under the orders and
+      direction of charterers as regards employment of
+      the vessel,agency and other arrangements,and shall
+      sign bills of lading as Charters or their agents
+      may direct(clause 13.a.) ）而定期傭船契約內之第4
+      、13.a 條之約款，確係與上開宣示證言書所載相符，可
+      知系爭船舶確實自96年8 月3 日起即由船東Bravo
+      Express Corp. 將該船傭租給SITME ），租期3 年加或減
+      15日，後又變更延長為5年，故系爭船舶之傭租期限係至
+      101 年8 月3 日止，且該船船長雖由船東Bravo Express
+      Corp. 僱用，但係依傭船人SITME 之指示使用船舶，並依
+      傭船人SITME 或其代理人之指示簽發載貨證券。實務上傭
+      船契約與載貨證券雖係二不同之法律關係，傭船契約之當
+      事人為船舶所有人及傭船人，載貨證券之權利義務人則為
+      載貨證券持有人及簽發人，傭船人未必必定係運送人，但
+      在無其他相反證據之情形下傭船契約既定明船長受傭船人
+      之指示簽發載貨證券，則認定傭船人即為運送人，船長即
+      係代理運送人即傭船人簽發載貨證券，應不違國際海運實
+      務之常情，故被告Expedo公司主張本件系爭貨物之運送人
+      為SITME ，而非被告，洵屬有據。
+    8.再者，載貨證券之應記載事項，依海商法第54條第1 項規
+      定，應載明：一、船舶名稱。二、託運人之姓名或名稱。
+      三、依照託運人書面通知之貨物名稱、件數或重量，或其
+      包裝之種類、個數及標誌。四、裝載港及卸貨港。五、運
+      費交付。六、載貨證券之份數。七、填發之年月日，並未
+      將運送人之姓名、住址規定在內，以致載貨證券持有人如
+      何辨認運送人頗費周章。雖同項規定：「載貨證券，應載
+      明下列各款事項，由運送人或船長簽名，由運送人簽名於
+      載貨證券者，固較單純，惟其間又涉及轉則條款（demise
+      clause）以及運送人辨認條款（identity of carrier
+      clause）之有效與否等問題。而由船長簽名，在傭船契約
+      下，究竟代表船舶所有人簽名（船舶所有人載貨證券），
+      抑代表傭船人簽名（運送人載貨證券），亦頗難辨認。本
+      件系爭載貨證券即由船長簽名，而整張載貨證券上並未記
+      載被告之名稱、標誌已如前述。論者有謂英美等國以是否
+      將本人（principal ）顯示為斷，亦即以所謂「本人充分
+      顯示」（sufficient disclosure principal ）之原則，
+      判斷何人應負載貨證券之責任。德國則以「開示原則」（
+      offenkund-igkeitsprinzip），為衡量之基礎。質言之，
+      英美等國所謂「本人充分顯示」之原則，乃以載貨證券所
+      表明之「本人」，視為運送人；而德國所謂「開示原則」
+      ，則從反面言之，若發行載貨證券未記載運送人之名稱時
+      ，則以船舶所有人視為運送人，此就該國商法規定：「船
+      長或其他船舶所有人之代理人於發行載貨證券而未記載海
+      上運送人之名稱時，以船舶所有人視為海上運送人」（楊
+      仁壽大法官著，前揭書第58頁）。亦即本件運送人之認定
+      即便依英、美、德法律為據，在運送人為何人於載貨證券
+      上未充分顯示或開示之情形下，應以船舶所有人為運送人
+      ，此即為何2010年3 月16日11時59分25秒，Shell 致原告
+      律師事務所之電子郵件第5 點稱：「Shell 否認他們是簽
+      發本件載貨證券之運送人。尤其當載貨證券是船舶或船東
+      簽發之情形，依普通法，此時船舶所有人才是載貨證券之
+      運送人。（Shell denies that it is the Carrier
+      that issued the BLs.In particular,if the BL is
+      issued on behalf of the vessel or the owners,then
+      by general law, it should be the owners of the
+      vessel that is the carrier under the BL. ）」之原
+      因。故本件如將運送人認定為船舶所有人即Bravo
+      Express Corp. 亦非無據，惟不論經認定運送人為SITME
+      或Bravo Express Corp. ，被告均非運送人，亦無疑義。
+    9.至於臺塑通運股份有限公司函覆本院之附件載明系爭船舶
+      就本件航程之運送人為GAC （SINGAPORE ），原告主張該
+      進港簽證資料（本院卷第177 頁）僅是我國交通部就管理
+      船舶本身（非航運運送事務）可否進入臺灣港口之在臺文
+      件，無法作為認定運送人之依據。臺塑通運股份有限公司
+      僅是「港代」地位，負責辦理「船舶」進港之行政港簽事
+      務，如同旅行團抵達外國時之「地陪」身份，因此GAC （
+      SINGAPORE ）僅是運送人的在臺業務聯絡人，並非真正的
+      運送人等語。縱使認為原告此部分主張可採，GAC （
+      SINGAPORE ）確實僅為系爭貨物運送人之在臺聯絡人，惟
+      原告仍未舉證證明被告即為系爭貨物之運送人。
+  (五)綜上，本件原告基於保險代位、載貨證券之法律關係，主張
+    被告為系爭貨物之運送人，並主張載貨證券上之船長簽名係
+    代表被告公司所簽發，而請求被告Expedo公司對系爭貨物之
+    短少負損害賠償責任。被告則抗辯稱其並非系爭貨物運送契
+    約之運送人，運送人係訴外人SITME 。而原告迄未提出得以
+    證明被告確實係系爭貨物運送人之證據，可資證明其主張為
+    真實，其起訴請求被告給付1,094,001 元本息即屬無據，應
+    予駁回。原告之訴既經駁回，其假執行之聲請，亦失所附麗
+    ，應並予駁回。
+五、本件判決之基礎已臻明確，兩造其餘之攻擊防禦方法及所舉
+    未經援用之證據，經本院審酌後，均認與判決之結果不生影
+    響，爰不予一一論述，附此敘明。
+六、訴訟費用負擔之依據：民事訴訟法第78條。
+中    華    民    國    99    年    6     月    2     日
+                  民事第二庭    法  官  楊昱辰
+以上正本係照原本作成。
+如對本判決上訴，須於判決送達後20日內向本院提出上訴狀，並
+附繕本。
+中    華    民    國    99    年    6     月    2     日
+                                書記官  李松坤
+
+司法院資訊處製作；財團法人民間司法改革基金會備份。
